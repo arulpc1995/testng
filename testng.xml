@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+<parameter name="Username" value="arulpc1995"></parameter>
+ <parameter name="Password" value="arulmurugan1995!"></parameter>
+  <parameter name="Email" value="arulpc1995@gmail.com"></parameter>
+    <parameter name="Url" value="https://github.com/"></parameter>
+    <classes>
+     
+      <class name="org.mav.prj.sam.testng.TestNg"/>
+          
+ </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
