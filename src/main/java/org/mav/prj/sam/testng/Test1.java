@@ -9,13 +9,14 @@ public class Test1 {
 	public void test1() {
 		System.out.println("Test1");
 		Assert.assertTrue(true);
-		Assert.assertTrue(true);
+		Assert.assertTrue(false);
 
 	}
 	@Test
 
 	public void test2() {
 		System.out.println("test2");
+		Assert.assertTrue(false);
 		Assert.assertTrue(false);
 		Assert.assertTrue(false);
 
