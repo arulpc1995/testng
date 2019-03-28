@@ -13,6 +13,15 @@ public class Test2 {
 		Assert.assertTrue(true);
 
 	}
+	@Test(priority=2)
+	public void test4() {
+		System.out.println("Test1");
+		Assert.assertTrue(true);
+		Assert.assertTrue(true);
+		Assert.assertTrue(true);
+		Assert.assertTrue(true);
+
+	}
 	@Test(priority=1)
 
 	public void test2() {
