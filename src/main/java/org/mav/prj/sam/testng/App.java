@@ -18,4 +18,8 @@ public class App {
 	public static void arraySort() {
 		System.out.println("code by user1");
 	}
+
+	public static void add(int a, int b) {
+		System.out.println(a + b);
+	}
 }
