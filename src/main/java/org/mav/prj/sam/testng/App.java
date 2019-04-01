@@ -14,4 +14,16 @@ public class App
 		System.out.println("Welcome");
 
 	}
+    public static void arraySortbySwathi() {
+		System.out.println("code by Swathi");
+	}
+
+	public static void add(int c, int d) {
+		System.out.println(c + d);
+	}
+
+	
+
+	
+	
 }
