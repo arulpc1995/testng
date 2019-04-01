@@ -27,7 +27,8 @@ public class App {
 		System.out.println(a + b + c);
 
 	}
-	public static void add(String a, int b) {
+	
+		public static void add(String a, int b) {
 		System.out.println("added Basavaiah");
 	}
 }
