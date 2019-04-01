@@ -10,17 +10,18 @@ public class App {
 		System.out.println("Hello World!");
 	}
 
-	private void arrysortbyBasavaiah() {
+	private void arrySortbyBasavaiah() {
 		System.out.println("Welcome");
 
 	}
 
-	public static void arraySort() {
-		System.out.println("code by user1");
+
+    public static void arraySortbySwathi() {
+		System.out.println("code by Swathi");
 	}
 
-	public static void add(int a, int b) {
-		System.out.println(a + b);
+	public static void add(int c, int d) {
+		System.out.println(c + d);
 	}
 
 	public static void add(int a, int b, int c) {
@@ -31,4 +32,5 @@ public class App {
 		public static void add(String a, int b) {
 		System.out.println("added Basavaiah");
 	}
+
 }
