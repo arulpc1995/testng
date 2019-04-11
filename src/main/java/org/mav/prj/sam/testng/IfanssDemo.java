@@ -1,8 +1,9 @@
 package org.mav.prj.sam.testng;
 
-public class BasavaiahClass {
+public class IfanssDemo {
 	public static void main(String[] args) {
-		System.out.println("chandru");
+		String i = "ifanss";
+		System.out.println(i);
 	}
 
 }

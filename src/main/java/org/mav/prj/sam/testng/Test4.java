@@ -6,7 +6,7 @@ public class Test4 {
 
 	@Test
 	public static void testScript1() {
-		System.out.println("this is my test script1");
+		System.out.println("this is my testscript1");
 	}
 
 }
